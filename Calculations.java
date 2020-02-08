@@ -10,16 +10,13 @@ public class Calculations {
 		System.out.println("The sum is= "+ sum);
 		
 		//member_B add the feature of subtracting x from y and print the result
-		int difference = y-x;
-		System.out.println("The subtration of x from y is= "+ diffeance);
+		
 		
 		//member_C add the feature of dividing x by y and print the result
-		double div = (x/y);
-		System.out.println("The division of x by y is= " + div);
+		
 		
 		//member_D add the feature of multiplying x by y and print the result
-		double mult = (x*y);
-		System.out.println("The multiplication of x by y is= " + mult);
+		
 		
 		
 		//Exercise 5: Spot the issues to be reported
