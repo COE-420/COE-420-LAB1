@@ -34,7 +34,7 @@ public class Calculations {
 	}
 	
 	public static String welcome() {
-		return "Hello World"; 
+		 System.out.println("Hello World"); 
 	}
 
 }
