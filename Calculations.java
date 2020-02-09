@@ -14,6 +14,8 @@ public class Calculations {
 		System.out.println("The difference is = " + difference);
 		
 		//member_C add the feature of dividing x by y and print the result
+		int division = float(x/y);
+		System.out.println("The quotient is = " + division);
 		
 		
 		//member_D add the feature of multiplying x by y and print the result
